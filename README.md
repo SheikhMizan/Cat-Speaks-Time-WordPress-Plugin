@@ -49,4 +49,3 @@ The Cat Speak plugin utilizes the [responsivevoice](https://responsivevoice.org/
 
 For any questions or support requests, please contact the plugin author at me@sheikhmizan.com
 
-```
