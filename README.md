@@ -21,3 +21,25 @@ To use the Cat Speak plugin, add the `[cat-time]` shortcode to your post or page
 
 ```shortcode
 [cat-time]
+
+## Customization
+You can customize the voice and language used for speech synthesis by modifying the plugin code. Open the cat-speak.js file and locate the following line:
+
+javascript
+
+utterance.voiceURI = 'Google UK English Female';
+
+Change the value 'Google UK English Female' to the desired voice URI.
+
+
+## License
+This project is licensed under the MIT License.
+
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Acknowledgements
+The Cat Speak plugin utilizes the responsivevoice JavaScript library for text-to-speech functionality.
+
+Support
+For any questions or support requests, please contact the plugin author at me@sheikhmizan.com
