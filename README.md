@@ -1,6 +1,3 @@
-
-
-```markdown
 # Cat Speak Time WordPress Plugin
 
 Cat Speak is a WordPress plugin that adds a fun feature to your website where a cat speaks the current time using text-to-speech.
